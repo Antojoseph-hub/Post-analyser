@@ -47,13 +47,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-!](Add screenshot 1 here with proper name)
+!](https://drive.google.com/file/d/1wJRp4hmpxt4d1K7IklJlthGOozenctkz/view?usp=sharing here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Shttps://drive.google.com/file/d/1NIui7czX6GYThD85NAAFp7SWsvLLEw9-/view?usp=sharinge)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![https://drive.google.com/file/d/1wJRp4hmpxt4d1K7IklJlthGOozenctkz/view?usp=sharing)
 *Add caption explaining what this shows*
 
 # Diagrams
