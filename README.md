@@ -50,7 +50,7 @@ For Software:
 !](https://drive.google.com/file/d/1wJRp4hmpxt4d1K7IklJlthGOozenctkz/view?usp=sharing here with proper name)
 *Add caption explaining what this shows*
 
-![Shttps://drive.google.com/file/d/1NIui7czX6GYThD85NAAFp7SWsvLLEw9-/view?usp=sharinge)
+![https://drive.google.com/file/d/1NIui7czX6GYThD85NAAFp7SWsvLLEw9-/view?usp=sharinge)
 *Add caption explaining what this shows*
 
 ![https://drive.google.com/file/d/1wJRp4hmpxt4d1K7IklJlthGOozenctkz/view?usp=sharing)
